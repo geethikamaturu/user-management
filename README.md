@@ -1,4 +1,4 @@
-# user-management
+# user-management dashboard
 ## Project Overview
 
 The **User Management Dashboard** is a responsive frontend web application developed using **HTML5** and **CSS3**. It provides a clean and modern interface for displaying and managing user information. The dashboard is designed with a dark theme and includes a sidebar, dashboard cards, search section, and a user management table.
